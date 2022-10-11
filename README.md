@@ -22,6 +22,11 @@ An Authenticator App for PC that can:
   - The secret key can be exported to transfer to other devices.
   - (Under developement) You can also add the URL of the 2FA website to the app and whenever you are asked for 2FA code, the app will automatically enter the code into the website.
 
+## To do
+  - Add HOPT authentication
+  - QR Code capture pops up errors if the code is invalid, but keep capturing the screen and pop up even more errors
+  - Integrate into Chrome Extension to catch URL and automatically enter 2FA Code
+
 ## Demo
 ![image](https://user-images.githubusercontent.com/39230783/195117552-1f47ce5a-886a-4c71-b2b2-272c989f7a4b.png)
 
