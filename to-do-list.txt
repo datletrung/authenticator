@@ -1,0 +1,3 @@
+hotp
+no replicate scan
+integrate into Chrome extension
