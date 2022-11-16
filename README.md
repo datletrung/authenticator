@@ -1,9 +1,9 @@
 # Authenticator
 Sick of checking your phone everytime you are asked for the 2FA code?
 An Authenticator App for PC that can:
-  - import by scanning QR Code directly on screen or from picture,
+  - import account by scanning QR Code directly on screen or from picture,
   - import and export secret key to transfer between devices,
-  - automatically enter the 2FA Code to website.
+  - automatically enter the 2FA Code to website (beta).
   
 ## Prerequisites
   opencv-python, pyotp, qrcode, pyautogui, pillow, pyzbar, cryptography
